@@ -1,0 +1,192 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp7495836.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+h1 {
+    font-family: 'Hedvig Letters Serif';
+    color: #14110F;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    text-align: center;
+    -webkit-text-stroke: 1px;
+}
+
+.colors h2 {
+    font-family: 'Hedvig Letters Serif';
+    color: #34312D;
+    text-align: center;
+    border: solid #D9C5B2 8px;
+    border-radius: 50px;
+    padding: 14px;
+    width: 100px;
+    background-color: hsla(240, 4%, 95%);
+    margin-left: 395px;
+}
+
+.color-list {
+    font-family: 'Hedvig Letters Serif';
+    color: #34312D;
+    margin: 0px 0px 0px 365px;
+}
+
+.color-list > li {
+    display: inline-block;
+    padding: 14px;
+    border: solid #D9C5B2 6px;
+    text-align: center;
+    margin-right: 20px;
+    background-color: hsla(240, 4%, 95%, 0.4);
+}
+
+#smocky-black:hover {
+    background-color: hsla(24, 14%, 7%, 0.5);
+    border-color: #14110F;
+    border-bottom: solid 10px #14110F;
+    box-shadow: 10px 14px #14110F;
+}
+
+#jet:hover {
+    background-color: hsla(34, 7%, 19%, 0.5);
+    border-color: #34312D; 
+    border-bottom: solid 10px #34312D; 
+    box-shadow: 10px 14px #34312D;
+}
+
+#gray:hover {
+    background-color: hsla(228, 2%, 50%, 0.5);
+    border-color: hsl(228, 2%, 50%);
+    border-bottom: solid 10px hsl(228, 2%, 50%);
+    box-shadow: 10px 14px hsl(228, 2%, 50%)
+}
+
+#dun:hover {
+    background-color: hsla(29, 34%, 77%, 0.5);
+    border-color: hsl(29, 34%, 77%);
+    border-bottom: solid 10px hsl(29, 34%, 77%);
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+}
+
+#anti-flash-white:hover {
+    background-color: hsla(240, 4%, 95%, 0.5);
+    border-color: hsl(240, 4%, 95%);
+    border-bottom: solid 10px hsl(240, 4%, 95%);
+    box-shadow: 10px 14px hsl(240, 4%, 95%);
+}
+
+.fonts {
+    font-family: 'Hedvig Letters Serif';
+    color: #14110F;
+    margin-left: 200px;
+}
+
+#dancing-script {
+    font-family: 'Dancing Script';
+    font-size: 25px;
+    margin-left: 200px;
+    background-color: hsla(0, 0%, 100%, 0.5);
+    width: 400px;
+    padding: 14px;
+    border: solid hsl(29, 34%, 77%) 6px;
+}
+
+#noto-serif-japanese {
+    font-family: 'Noto Serif Japanese';
+    font-size: 25px;
+    margin-left: 200px;
+    background-color: hsla(0, 0%, 100%, 0.5);
+    width: 400px;
+    padding: 14px;
+    border: solid hsl(29, 34%, 77%) 6px;
+    height: 135px;
+    overflow: scroll;
+}
+
+#noto-serif-korean {
+    font-family: 'Noto Seirf Korean';
+    font-size: 25px;
+    margin-left: 200px;
+    background-color: hsla(0, 0%, 100%, 0.5);
+    width: 400px;
+    padding: 14px;
+    border: solid hsl(29, 34%, 77%) 6px;
+    height: 135px;
+    overflow: scroll;
+}
+
+#pixelify-sans {
+    font-family: 'Pixelify Sans';
+    font-size: 25px;
+    margin-left: 200px;
+    background-color: hsla(0, 0%, 100%, 0.5);
+    width: 400px;
+    padding: 14px;
+    border: solid hsl(29, 34%, 77%) 6px;
+    height: 135px;
+    overflow: scroll;
+}
+
+#dancing-script:hover {
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+    border-bottom: solid hsl(29, 34%, 77%) 10px;
+}
+
+#pixelify-sans:hover {
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+    border-bottom: solid hsl(29, 34%, 77%) 10px;
+}
+
+#noto-serif-korean:hover {
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+    border-bottom: solid hsl(29, 34%, 77%) 10px;
+}
+
+#noto-serif-japanese:hover {
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+    border-bottom: solid hsl(29, 34%, 77%) 10px;
+}
+
+h2 {
+    font-family: 'Hedvig Letters Serif';
+    color: #34312D;
+    text-align: center;
+    border: solid #D9C5B2 8px;
+    border-radius: 50px;
+    padding: 14px;
+    width: 100px;
+    background-color: hsla(240, 4%, 95%);
+    margin-left: 200px;
+}
+
+#text-styles h2 {
+    font-family: 'Hedvig Letters Serif';
+    color: #34312D;
+    text-align: center;
+    border: solid #D9C5B2 8px;
+    border-radius: 50px;
+    padding: 14px;
+    width: 100px;
+    background-color: hsla(240, 4%, 95%);
+    margin-left: 395px;
+}
+
+.boo {
+    font-family: 'Pixelify Sans';
+    font-size: 25px;
+    margin-left: 395px;
+    background-color: hsla(0, 0%, 100%, 0.5);
+    width: 400px;
+    padding: 14px;
+    border: solid hsl(29, 34%, 77%) 6px;
+    height: 135px;
+    overflow: scroll;
+}
+.boo:hover {
+    box-shadow: 10px 14px hsl(29, 34%, 77%);
+    border-bottom: solid hsl(29, 34%, 77%) 10px;
+}
